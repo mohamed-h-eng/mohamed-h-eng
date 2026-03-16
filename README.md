@@ -77,11 +77,11 @@ I'm a Full Stack Developer passionate about crafting clean, performant, and scal
 
 <div align="center">
 
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed-h-eng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-h-eng&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=mohamed-h-eng&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -113,7 +113,7 @@ I'm always open to interesting projects, collaborations, or just a good tech con
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mohamed-h-eng&color=blue&style=flat-square" alt="Profile views" />
   
   *"First, solve the problem. Then, write the code." — John Johnson*
 </div>
