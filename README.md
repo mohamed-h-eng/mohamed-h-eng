@@ -9,7 +9,7 @@
 ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝
 ```
 
-### Hi there 👋 I'm **Mohamed Hany Abdel-Hameed**
+### Hi there 👋 I'm **Mohamed Hany**
 
 **Full Stack Developer** · Building things for the web, end to end.
 
