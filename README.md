@@ -91,7 +91,7 @@ I'm a Full Stack Developer passionate about crafting clean, performant, and scal
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                     MY DEVELOPMENT SCOPE                     │
+│                     MY DEVELOPMENT SCOPE                    │
 ├───────────────┬─────────────────────┬───────────────────────┤
 │   FRONTEND    │      BACKEND        │      DEVOPS / CLOUD   │
 │               │                     │                       │
