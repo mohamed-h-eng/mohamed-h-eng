@@ -27,7 +27,6 @@ I'm a Full Stack Developer passionate about crafting clean, performant, and scal
 - 🔭 Currently working on full-stack web projects
 - 🌱 Always exploring new tools across frontend, backend & DevOps
 - ⚡ I care about clean code, good architecture, and great UX
-- 📍 Based in Cairo, Egypt 🇪🇬
 
 ---
 
